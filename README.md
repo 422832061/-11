@@ -18,7 +18,7 @@ PublicKey = novSFkdWXyK0nUmnnRZkJOtcD2wGJbNXliPUZMcWhXQ=
 
 添加一个免流软件 [乌拉网游加速器](http://t.cn/A6tN2mr0)
 
-沃游戏节点(peer)的公钥变了
+沃游戏节点(peer)的公钥变了  
 
 ```
 [Interface]
