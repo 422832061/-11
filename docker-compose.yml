@@ -43,7 +43,7 @@ services:
     tty: true
     network_mode: "bridge"
     environment:
-      - enable_52pojie=false #签到开关
+      - enable_52pojie=true #签到开关
       - htVD_2132_auth= #
       - htVD_2132_saltkey= #
 
@@ -58,7 +58,7 @@ services:
     tty: true
     network_mode: "bridge"
     environment:
-      - enable_iqiyi=false #签到开关
+      - enable_iqiyi=true #签到开关
       - P00001= #
       - P00PRU= #
       - QC005= #
